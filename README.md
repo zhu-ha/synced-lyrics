@@ -2,7 +2,7 @@
 
 1.  Run the script:
     ```bash
-    python3 lyrsync.py
+    python3 lrc-CLI.py
     ```
 2.  When prompted, **drag and drop** the audio file path.
 3.  Next, **drag and drop** the **.lrc lyrics file path**.
